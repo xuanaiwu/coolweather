@@ -12,6 +12,12 @@
 bin/
 gen/
 out/
+gradle/
+*.gradle
+gradle.properties
+gradlew
+gradle.bat
+
 
 # Gradle files
 .gradle/
